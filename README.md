@@ -15,4 +15,6 @@
 * **Notification** ไฟแจ้งเตือนเมื่อค่า อุณหภูมิ,ความชื้นในดิน,ความชื้อนในอากาศ ต่ำกว่าที่กำหนด<br>
 ![](pic/setting.png)<br>
 * **Config** สามารถแก้ไขค่าตั้งต้น(Defualt)ได้ตามความต้องการหรือความเหมาะสมของพืชชนิดนั้นๆ
+
+# VIDEO
 [![](http://img.youtube.com/vi/Y6tyOtf3XGs/0.jpg)](http://www.youtube.com/watch?v=Y6tyOtf3XGs "")
