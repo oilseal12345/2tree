@@ -10,7 +10,7 @@
 
 # FEATURE
 ![](pic/monitor.png)<br>
-* **Monitor** หน้าจอแสดงผลข้อมูล อุณหภูมิ,ความชื้นในดิน,ความชื้นในอากาศ ผ่านทาง https://tree-f7129.firebaseapp.com/#/ <br>
+* **Monitor** หน้าจอแสดงผลข้อมูล อุณหภูมิ,ความชื้นในดิน,ความชื้นในอากาศ ผ่านทาง https://tree-f7129.firebaseapp.com/ <br>
 ![](pic/led.png)<br>
 * **Notification** ไฟแจ้งเตือนเมื่อค่า อุณหภูมิ,ความชื้นในดิน,ความชื้อนในอากาศ ต่ำกว่าที่กำหนด<br>
 ![](pic/setting.png)<br>
