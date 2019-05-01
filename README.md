@@ -21,7 +21,7 @@
 * https://youtu.be/Y6tyOtf3XGs
 
 ## Member
-|<img src="website/img/team/01.jpg" width="120px" height="120px">|<img src="website/img/team/02.jpg" width="120px" height="120px">|<img src="website/img/team/03.jpg" width="120px" height="120px">|<img src="website/img/team/04.jpg" width="120px" height="120px">|
+|<img src="/team_pic/01.jpg" width="120px" height="120px">|<img src="/team_pic/02.jpg" width="120px" height="120px">|<img src="/team_pic/03.jpg" width="120px" height="120px">|<img src="/team_pic/04.jpg" width="120px" height="120px">|
 |:---:|:---:|:---:|:---:|
 |[oilseal12345](https://github.com/oilseal12345)|[wannamongkol](https://github.com/wannamongkol)|[wut5238](https://github.com/wut5238)|[newza10139](https://github.com/newza10139)|
 |Littikrai<br>Sakunpaisanwari|Wannamongkol<br>Sriwan|Setthawut<br>Sae-ueng|Sutthichai<br>Chokjaroen|
